@@ -1,4 +1,4 @@
-Ejercicio 6: Sistema de articulos¶
+## Ejercicio 6: Sistema de articulos¶
 Crear una clase Articulo con un nombre y un precio, que ambos se puedan modificar. También tendrá un id que se generará de forma automática mediante un contador (totalArticulos) y una función generarId(). Este id no podrá modificarse ni obtenerse fuera de Articulo.
 
 Crear un método promocionNavidad() que reciba el porcentaje de rebaja y lo aplique al precio.
